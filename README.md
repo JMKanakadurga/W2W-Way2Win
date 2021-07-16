@@ -1,1 +1,2 @@
-# W2W-Way2Win
+# WAY2WIN
+A consortium of all the college campus events.
